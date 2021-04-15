@@ -1,2 +1,5 @@
 # bert-classify
 一个完整的基于bert的文本分类模型
+数据存放在data文件夹下
+数据分为train，test，dev三组
+bert的预训练模型存放在bert_pretrain文件夹下
